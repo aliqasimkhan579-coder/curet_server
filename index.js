@@ -12,7 +12,7 @@ app.use(express.json());
 let products=[
     {
 id:1,
-name:"Corsair HS45 Headphone",
+name:"Corsair HS45 ",
 price:4500,
 imageURL:"https://www.purplle.com/magazine/article/budget-friendly-makeup-products-you-gotta-bag-in-2021?srsltid=AU7gw4UzIomV-6Ar3hvRZMxwqn0QgsYEs0MOgfG0bwI31IYN0kZy_IsL",
 desc:"A comfortable and highky improving"
